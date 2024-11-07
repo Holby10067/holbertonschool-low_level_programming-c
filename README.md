@@ -1,5 +1,1 @@
-Holberton School Low-Level Programming - C
-===========================================
-
-
-
+# Low Level Programming with C
